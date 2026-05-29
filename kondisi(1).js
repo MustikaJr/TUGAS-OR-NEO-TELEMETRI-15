@@ -1,4 +1,4 @@
-let stok = 15;
+let stok = 0;
 
 if (stok > 10) {
     console.log("Stok aman");
